@@ -1,0 +1,18 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font: 400 15px/1.8 "Lato", sans-serif;
+    color: #777;
+}
+
+#root {
+    background-image: url("https://png.pngtree.com/background/20210716/original/pngtree-cartoon-natural-landscape-at-sunset-by-the-lake-picture-image_1340503.jpg");
+    height: 100%;
+    width: 100%;
+    position: relative;
+    opacity: 1;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
